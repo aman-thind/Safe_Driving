@@ -29,7 +29,7 @@ Random Forest |
 SVM |
 Naive Bayes
 
-# Best working model:- Naive Bayes
+Best working model: Naive Bayes
 
 
 
