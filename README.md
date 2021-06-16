@@ -30,9 +30,9 @@ Best working model: Naive Bayes
 
 
 
-## Author
-*Amandeep Thind*
-[Website](https://aman-thind.github.io/Portfolio "Welcome")
+## Authors
+Amandeep Thind, Phlip Owie, Uche Osakwe
+
 
 
 MIT license
