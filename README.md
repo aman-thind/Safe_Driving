@@ -6,15 +6,12 @@ A model that would improve the Auto insurance signup process by predicting the l
 
 ## Dataset
 
-[Dataset link](https://www.kaggle.com/floser/french-motor-claims-datasets-fremtpl2freq "Welcome")
-
-
 The French Motor claims dataset is obtained from Kaggle. This raw dataset contains 11 columns with independent variables which represents the insured personal details required for signup and a dependent variable which contains claims history for classifying the correlation of the independent variables into binary classes of 1 or 0, representing if the insured had processed a claim or not.
 
 ## Build with
 - Jupyter notebook 
 - sklearn - Machine learning library
-- seaborn, matplotlib - Visualization libraries
+- seaborn, matplotlib.pyplot - Visualization libraries
 - numpy -  number python library
 - pandas - data handling library
 
@@ -30,7 +27,6 @@ Six Models created:
 - Naive Bayes
 
 Best working model: Naive Bayes
-
 
 
 
